@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "Assets/Scripts"
+		},
+		{
+			"path": "Assets/Creators/chierit"
 		}
 	],
 	"settings": {

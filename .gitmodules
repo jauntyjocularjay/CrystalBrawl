@@ -1,0 +1,3 @@
+[submodule "Assets/Creators/chierit"]
+	path = Assets/Creators/chierit
+	url = https://github.com/jauntyjocularjay/chierit.git
