@@ -1,3 +1,9 @@
 [submodule "Assets/Creators/chierit"]
 	path = Assets/Creators/chierit
 	url = https://github.com/jauntyjocularjay/chierit.git
+[submodule "Assets/DMBTools/FractionScale"]
+	path = Assets/DMBTools/FractionScale
+	url = https://github.com/jauntyjocularjay/FractionScale.git
+[submodule "Assets/DMBTools/2DUtils"]
+	path = Assets/DMBTools/2DUtils
+	url = https://github.com/jauntyjocularjay/2DUnityUtils.git
